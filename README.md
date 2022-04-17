@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm 1xFrostZeus</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%235DD090&size=30&duration=3000&center=true&lines=Reimagine+Creativity+%E2%9C%A8;Welcome+to+GitHub+of+Eagle;Check+out+vibral.tk)](https://vibral.tk)
-[![Repos Badge](https://badges.pufler.dev/repos/1xFrostZeus)](https://vibral.tk)
 <h3 align="center">A video game & web devloper</h3>
 
 - All of my projects are available at [My Website](https://dev.1xfrostzeus.repl.co) 
