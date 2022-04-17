@@ -11,5 +11,14 @@
 
 ------------
 **Stats:**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eagle1309&theme=dracula&show_icons=true&locale=en&layout=compact" alt="eagle1309" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1xFrostZeus&theme=dracula&show_icons=true&locale=en&layout=compact" alt="1xFrostZeus" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1xFrostZeus&theme=dracula&show_icons=true&locale=en" alt="1xFrostZeus" /></p>
+
+------------
+**My Social Accounts:**
+
+<p align="left"> <a href="https://twitter.com/1xFrostZeus" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p><p align="left"> <a href="https://discord.gg/RDWRnr98b5" target="blank"><img alt="Discord" src="https://img.shields.io/badge/Join Us%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p><p align="left"> <a href="https://instagram.com/1xfrostzeus" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a></p><p align="left"> <a href="https://m.youtube.com/channel/UCTFhTys_I2U4k1llyWR96Yg" target="blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a></p>
+
+
+
+------------
